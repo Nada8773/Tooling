@@ -1,1 +1,0 @@
-#define DIO_u8PIN3_MODE      DIO_u8HIGH_IMPEDENCE
