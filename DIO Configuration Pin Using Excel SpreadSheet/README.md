@@ -2,17 +2,17 @@
 #### using Excel SpreadSheets
      - to create macros file for the DIO Pins .
      
-*. Input Data
+1. Input Data
 
-![Image]()
+![Image](https://raw.githubusercontent.com/Nada8773/Tooling/master/Image/excel%20input.PNG)
 
-*. Message after the file is created successfully
+2. Message after the file is created successfully
 
-![Image]()
+![Image](https://raw.githubusercontent.com/Nada8773/Tooling/master/Image/excel%20Msg.PNG)
 
-*. Output File
+3. Output File
      
-![Image]()
+![Image](https://raw.githubusercontent.com/Nada8773/Tooling/master/Image/excel%20output.PNG)
 
 
 
